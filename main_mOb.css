@@ -1,0 +1,88 @@
+body, html {
+    background-color: #404040;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+  .topnav {
+    overflow: hidden;
+    background-color: #333333;
+    border: 0;
+    padding: 0;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+.wrapper {
+    background-image: url(main_mOb_images/mOb_Logo_mOrganicblends.png);
+    border: none;
+    height: 100%;
+    width: auto;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+}
+* {
+    box-sizing: border-box;
+}
+.main {
+    height: fit-content;
+    width: auto;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+br {
+    display: block;
+    margin: 0px;
+    line-height:50px;
+    Content: unset;
+}
+.header {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    float: right;
+    color: #ffffff;
+}
+ #almond, #apricot, #argan, #avocado {
+       height: 100%;
+     width: auto;
+   }
+iFrame {
+       height:400px;
+    width: auto;
+    border: 0;
+    margin: 0px;
+    padding: 0px;
+    background-color: #fffaf0;
+    float-wrap: wrap;
+}
+#baseOilDetails {
+       align-self: center;
+
+}
+
+
+
+
+
+
